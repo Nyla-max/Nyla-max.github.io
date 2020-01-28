@@ -1,11 +1,11 @@
 # Site settings
-author: Nyla Duperval
-title: 
+author: Nyla
+title: Welcome To My Journey
 header-img: img/home-bg.png
 email: nduperval1@gmail.com
-copyright_name: Nyla Duperval
+copyright_name: Nyla
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Nyla's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nyla-max
